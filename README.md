@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @rahad-dev24
+- 👋 Hi, I’m Faisal Ahamed Rahad.
+-  Full stack developer
 - 👀 I’m interested in cats, anime and coding.
 - 🌱 I’m currently learning Django.
 - 📫 How to reach me: well your already here...might as well give me a ⭐ and mail me at rahad.dev24@gmail.com
