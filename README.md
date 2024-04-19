@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faisal Ahamed Rahad.
 -  Full stack developer (Nodejs, Nextjs, Tailwind CSS, Prisma, Graphql)
 - 👀 I’m interested in cats, anime and coding.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning FastAPI.
 - 📫 How to reach me: well your already here...might as well give me a ⭐ and mail me at rahad.dev24@gmail.com
 - 😄 Pronouns: well...it's not she/her 😄
 - ⚡ Fun fact: cat music is the best remedy for debugging code 😆
