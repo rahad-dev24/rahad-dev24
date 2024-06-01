@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Faisal Ahamed Rahad.
 -  Full stack developer (Nodejs, Nextjs, Tailwind CSS, Prisma, Graphql)
+-  Portfolio - https://portfolio-rahad.vercel.app/
 - 👀 I’m interested in cats, anime and coding.
 - 🌱 I’m currently learning FastAPI.
 - 📫 How to reach me: well your already here...might as well give me a ⭐ and mail me at rahad.dev24@gmail.com
