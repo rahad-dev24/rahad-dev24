@@ -56,22 +56,13 @@
 
   #### 📊 GitHub Stats
 
-  <p align="center">
-    <a href="https://github.com/rahad-dev24">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahad-dev24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-    <a href="https://github.com/rahad-dev24">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahad-dev24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    </a>
-  </p>
+  
 
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=rahad-dev24&theme=tokyonight&hide_border=true" />
   </p>
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahad-dev24&theme=tokyonight&no-frame=true&row=1&column=7" />
-  </p>
+  
 
   ---
 
