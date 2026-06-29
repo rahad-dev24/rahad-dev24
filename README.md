@@ -54,17 +54,6 @@
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   </p>
 
-  ---
-
-  #### 📊 GitHub Stats
-
-  
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=rahad-dev24&theme=tokyonight&hide_border=true" />
-  </p>
-
-  
 
   ---
 
