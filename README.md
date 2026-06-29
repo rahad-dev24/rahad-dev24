@@ -2,9 +2,11 @@
 
   Full Stack Developer building multi-tenant SaaS, e-commerce, and ERP systems end-to-end — usually with **Next.js + GraphQL + Prisma + PostgreSQL + Redis**.
 
-  🌐 **Portfolio:** https://portfolio-rahad.vercel.app/
+  🌐 **Portfolio:** https://portfolio-2026-alpha-blush.vercel.app/
+  💼 **LinkedIn:** https://www.linkedin.com/in/rahad-dev24/
   📫 **Email:** rahad.dev24@gmail.com
-  💼 **Open to work** — full-time or contract, remote-friendly
+  ✅ **Open to work** — full-time or contract, remote-friendly
+
 
   ---
 
@@ -126,7 +128,8 @@
   </p>
 
   <p align="center">
-    <a href="https://portfolio-rahad.vercel.app/">Portfolio</a> •
+    <a href="https://portfolio-2026-alpha-blush.vercel.app/">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/rahad-dev24/">LinkedIn</a> •
     <a href="mailto:rahad.dev24@gmail.com">Email</a> •
     <a href="https://github.com/rahad-dev24">GitHub</a>
   </p>
