@@ -62,9 +62,9 @@
 
   - **Multi-Tenant School Management SaaS**  
 Built a production-ready multi-tenant SaaS for schools from scratch, with subdomain-based tenancy and role-based dashboards.
-Built the GraphQL backend on Apollo Server with role-gated resolvers, Prisma over PostgreSQL, and a Redis caching layer with auto-invalidation.
-Shipped core school workflows: exam scheduling, fee collection with bKash and PayStation, attendance tracking, library, question bank, payroll, and automated notifications.
-Tech: Next.js 16, TypeScript, Tailwind, shadcn/ui, Zustand, GraphQL (Apollo Server + Codegen), Prisma, PostgreSQL, Redis (ioredis + Upstash), Nginx, PM2.
+  - Built the GraphQL backend on Apollo Server with role-gated resolvers, Prisma over PostgreSQL, and a Redis caching layer with auto-invalidation.
+  - Shipped core school workflows: exam scheduling, fee collection with bKash and PayStation, attendance tracking, library, question bank, payroll, and automated notifications.
+  -**Tech:** Next.js 16, TypeScript, Tailwind, shadcn/ui, Zustand, GraphQL (Apollo Server + Codegen), Prisma, PostgreSQL, Redis (ioredis + Upstash), Nginx, PM2.
 
 
   - **SchoolOS — Companion Mobile App for School SaaS**  
