@@ -58,49 +58,6 @@
 
   ---
 
-  #### 🚀 Currently building
-
-  - **Multi-Tenant School Management SaaS**  
-Built a production-ready multi-tenant SaaS for schools from scratch, with subdomain-based tenancy and role-based dashboards.
-  - Built the GraphQL backend on Apollo Server with role-gated resolvers, Prisma over PostgreSQL, and a Redis caching layer with auto-invalidation.
-  - Shipped core school workflows: exam scheduling, fee collection with bKash and PayStation, attendance tracking, library, question bank, payroll, and automated notifications.
-  -**Tech:** Next.js 16, TypeScript, Tailwind, shadcn/ui, Zustand, GraphQL (Apollo Server + Codegen), Prisma, PostgreSQL, Redis (ioredis + Upstash), Nginx, PM2.
-
-
-  - **SchoolOS — Companion Mobile App for School SaaS**  
-Built the student-facing companion app for the school SaaS using Expo and React Native, sharing the same GraphQL backend and session model as the web dashboard.
-Built a multi-tenant onboarding flow where students enter their school's host URL on first launch, letting one binary serve every school.
-Mirrored the student dashboard (fees, results, routine, library, notices, and more) using Expo Router, backed by the same GraphQL queries as the web app.
-Tech: Expo SDK 56, React Native 0.85, React 19, TypeScript, Expo Router, expo-notifications, expo-secure-store, react-native-google-mobile-ads, react-native-reanimated, GraphQL.
-
-  - **Amaltx(USA) — Car Parts E-commerce Platform **
-Built a full-stack e-commerce platform for car parts from scratch: a customer storefront with Google sign-in (better-auth), product catalog, cart, and Stripe checkout (plus cash-on-delivery), alongside a full admin back-office for inventory, brands/categories, suppliers, purchase receipts, orders, and financial reporting (sales, revenue, expenses, profit).
-Designed the RBAC layer (admin vs. customer roles enforced server-side on every route and Server Action) and built CSV/Excel/JSON product import and audit-logged data export/backup tooling.
-Implemented SEO end-to-end — dynamic sitemaps, JSON-LD structured data (Product, Organization, BreadcrumbList), and Open Graph metadata — plus Sentry error monitoring and security headers (CSP).
-Tech: Next.js 16, React 19, TypeScript, Prisma 7, PostgreSQL (Supabase), better-auth, Stripe, TanStack Query, Zustand, Tailwind CSS, shadcn/ui, Sentry.
-  - **School Management SaaS (Lead Developer)  MRAM Technologies**
-Scaled a multi-tenant SaaS platform for school management. Integrated bKash + PayStation payments, optimized queries, added 5+ service modules (question bank, bulk admission, automated SMS), fixed major bugs, and led 2 junior devs.
-Tech: Next.js, Tailwind CSS, MUI, Node.js, Prisma, MySQL, Docker.
-  - ** Result Processing and Student Administration System **
-Automated processing, publishing, and archival of university results plus student administration.
-Tech: Node.js (Express), Pug, Sequelize, PostgreSQL, Redis, Bcrypt, session auth.
-
-  - **AllMart — General E-commerce Platform  **
-Built a full-stack e-commerce platform for the Bangladesh market from scratch. The storefront prices in BDT or USD, uses Google sign-in (better-auth), and checks out with cash on delivery, SSLCommerz, bKash or Stripe. A scheduled job settles online payments whose callbacks never arrived.
-Built the admin back-office:
-catalogue, inventory and purchasing
-RMA returns and refunds
-scheduled sales and coupons
-a section-based home page builder with draft, preview and publish
-Designed permission-based RBAC (admin and employee roles, enforced server-side on every route and Server Action) with an audit log and CSV/Excel exports.
-Made it deployable two ways: serverless (Vercel + Supabase, optional Upstash Redis), or a self-hosted Docker stack (Nginx, PostgreSQL, Redis, cron) with encrypted offsite backups. A
-portable backup format moves the whole store, database and files together, between the two with one command.
-Covered it with Vitest (500+ unit tests) and Playwright end-to-end tests. Added SEO (dynamic sitemaps, JSON-LD), Sentry monitoring and a nonce-based CSP.
-Tech: Next.js 16, Prisma 7, PostgreSQL (Supabase), Redis (ioredis + Upstash), better-auth, bKash, SSLCommerz, TanStack Query, Zustand, Tailwind CSS, shadcn/ui, Docker, Nginx.
-
-
-  ---
-
   #### 💼 Experience
 
   - **Full Stack Developer** — MRAM Technologies *(Apr 2025 – Aug 2025)*
