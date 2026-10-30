@@ -1,6 +1,7 @@
 ### Hi there, I'm Faisal Ahamed Rahad 👋
 
-  Full Stack Developer building multi-tenant SaaS, e-commerce, and ERP systems end-to-end — usually with **Next.js + GraphQL + Prisma + PostgreSQL + Redis**.
+  Full-stack developer experienced in building and deploying multi-tenant SaaS, e-commerce, and ERP systems. Specializes in Next.js, GraphQL, Node.js, Prisma, and PostgreSQL, with expertise in system architecture, RBAC, payment integration, and cloud deployment. Focused on scalable solutions, efficient development, and emerging technologies.
+
 
   🌐 **Portfolio:** https://portfolio-2026-alpha-blush.vercel.app/
   💼 **LinkedIn:** https://www.linkedin.com/in/rahad-dev24/
