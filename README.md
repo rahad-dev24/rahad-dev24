@@ -82,14 +82,7 @@
 
   ---
 
-  #### About me
-
-  - 👀 Interested in cats, anime, and coding
-  - 😄 Pronouns: well... it's not she/her 😄
-  - ⚡ Fun fact: cat music is the best remedy for debugging code 😆
-  - 📫 You're already here — might as well drop a ⭐ and mail me at **rahad.dev24@gmail.com**
-
-  ---
+  
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=rahad-dev24&style=for-the-badge&color=blueviolet" alt="Profile views" />
